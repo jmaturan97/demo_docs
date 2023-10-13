@@ -1,1 +1,1 @@
-<a href="https://www.google.com/" target="_blank">👉 GET STARTED</a>
+<a target="_blank" href="https://www.google.com/">👉 GET STARTED</a>
